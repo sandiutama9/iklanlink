@@ -1,3 +1,4 @@
+<center>....................................................................</center>
 <div class='widget HTML' data-version='1' id='HTML6'>
 <div class='widget-content'>
 <div class='link-btn'>
@@ -13,3 +14,4 @@ Pencari Telepon
 </div>
 <a class='tombol-link' href='https://sf1.gadgetidn.id/2023/02/lacak-nomor-telepon.html' title='' rel='nofollow'>lacak lokasi sekarang</a>
 <a class='tombol-link' href='https://sf1.gadgetidn.id/2023/02/lacak-nomor-telepon.html' title='' rel='nofollow'>masukkan nomor telepon</a></div>
+<center>....................................................................</center>
